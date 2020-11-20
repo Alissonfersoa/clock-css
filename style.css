@@ -40,9 +40,7 @@ body
     border-radius: 50%;
     z-index: 10000;
 }
-.clock  .hour,
-.clock  .min,
-.clock  .sec
+.clock  .hour, .clock  .min, .clock  .sec
 {
     position: absolute;
 }
